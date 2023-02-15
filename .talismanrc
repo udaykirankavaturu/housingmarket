@@ -12,3 +12,8 @@ fileignoreconfig:
 - filename: model.ipynb
   checksum: 5ed0476320b47f37ed8c2bfd1623ed9e1203e64af5f09da176b525e90e151808
 version: ""
+
+fileignoreconfig:
+- filename: model.ipynb
+  checksum: 425365783eb3fa35b4d6e89c9b6f00a081605be56a125b78fa365f78427b89b8
+version: ""
